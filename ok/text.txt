@@ -1,0 +1,7 @@
+Customers: their positions and lastly their amount of burghers ordered
+dias: 0 1 1
+Sum of cashier0: 650
+Sum of cashier1: 0
+Sum of cashier2: 0
+Total amount of burghers left in stock: 49
+Total number of customers in the cashiers: 1
